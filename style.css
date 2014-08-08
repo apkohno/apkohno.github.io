@@ -89,13 +89,14 @@ div#contents{
 
 div#campaign{
   margin:20px auto;paddin:0;
+  text-align:center;
 }
 
 div#campaign h2{
   font-size:14px;
-  margin:20px 20px 10px 20px;
+  margin:20px auto;
   background-color:#eee;
-  padding:5px;
+  padding:10px;
 }
 
 div#campaign p{
