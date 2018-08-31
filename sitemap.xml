@@ -4,64 +4,64 @@
         xmlns:video="http://www.sitemaps.org/schemas/sitemap-video/1.1">
   
   <url>
-      <loc>http://www.autoplaza-kohno.com/bike_new/20110403007/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_new/20110403013/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_new/20110403016/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_new/20110403017/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_new/20160313001/index.html</loc>
+      <loc>http://www.autoplaza-kohno.com/index.html</loc>
       <changefreq>monthly</changefreq>
     </url><url>
       <loc>http://www.autoplaza-kohno.com/bike_new/index.html</loc>
       <changefreq>monthly</changefreq>
     </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_table.jsindex.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_used/20120703001/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_used/20141112001/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_used/20170413001/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_used/20170413002/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_used/20170413003/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/bike_used/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/CNAMEindex.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
       <loc>http://www.autoplaza-kohno.com/info/index.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/jquery.jsindex.html</loc>
-      <changefreq>monthly</changefreq>
-    </url><url>
-      <loc>http://www.autoplaza-kohno.com/mini_car/index.html</loc>
       <changefreq>monthly</changefreq>
     </url><url>
       <loc>http://www.autoplaza-kohno.com/otoiawase/index.html</loc>
       <changefreq>monthly</changefreq>
     </url><url>
       <loc>http://www.autoplaza-kohno.com/snow/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_table.jsindex.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_new/20160313001/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_new/20110403013/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_new/20110403007/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_new/20110403017/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_new/20110403016/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/CNAMEindex.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/mini_car/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_used/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_used/20170413003/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_used/20170413002/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_used/20120703001/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_used/20170413001/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/bike_used/20141112001/index.html</loc>
+      <changefreq>monthly</changefreq>
+    </url><url>
+      <loc>http://www.autoplaza-kohno.com/jquery.jsindex.html</loc>
       <changefreq>monthly</changefreq>
     </url>
 </urlset>
